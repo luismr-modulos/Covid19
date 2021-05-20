@@ -4,6 +4,11 @@ public class Main {
 	public static void main(String[] args) {
 		
 		System.out.println("PROBANDO....");
+		System.out.println("PROBANDO1....");
+		System.out.println("PROBANDO.2...");
+		System.out.println("PROBANDO..3..");
+		System.out.println("PROBANDO...4.");
+		System.out.println("PROBANDO....5");
 
 	}
 
